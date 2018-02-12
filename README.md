@@ -1,1 +1,0 @@
-# turkcell_t70_manifest

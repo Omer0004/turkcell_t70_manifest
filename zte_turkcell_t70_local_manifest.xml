@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="by-ngs/android_kernel_zte_msm8909" path="kernel/zte/msm8909" remote="github" revision="cm-14.1" />
+  <project name="by-ngs/android_device_zte_turkcell_t70" path="device_zte_turkcell_t70" remote="github" revision="cm-14.1" />
+  <project name="by-ngs/proprietary_vendor_zte_turkcell_t70" path="vendor/zte_turkcell_t70" remote="github" revision="cm-14.1" />
+  <project name="by-ngs/android_hardware_qcom_media-msm8909" path="hardware/qcom/media-msm8909"  remote="github"  revision="cm-14.1" />
+  <remove-project name="CyanogenMod/android_build" />
+  <project name="by-ngs/android_build" path="build"  remote="github"  revision="cm-14.1" />
+</manifest>
